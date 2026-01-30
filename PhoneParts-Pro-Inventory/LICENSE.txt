@@ -1,0 +1,12 @@
+LICENCIA DE USO PERSONAL
+
+Este software ha sido desarrollado por Kener Cartagena y se entrega bajo una licencia de uso personal.
+
+- El usuario tiene derecho a utilizar este software para fines personales o internos de su negocio.
+- Queda estrictamente prohibida la reventa, redistribución, publicación o modificación del código fuente sin autorización expresa por escrito del autor.
+- Kener Cartagena se reserva todos los derechos sobre el software y su contenido.
+
+Fecha de entrega: 2025
+Versión: 1.0
+
+Autor: Kener Emmanuel Cartagena Fuentes
